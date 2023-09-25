@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prova_Poo_3Bimestre/1.0.0": {
+        "runtime": {
+          "Prova_Poo_3Bimestre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova_Poo_3Bimestre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
